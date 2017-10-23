@@ -1,0 +1,8 @@
+C:\ProjectList\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.deps.json
+C:\ProjectList\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.runtimeconfig.json
+C:\ProjectList\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.runtimeconfig.dev.json
+C:\ProjectList\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.dll
+C:\ProjectList\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.csprojResolveAssemblyReference.cache
+C:\ProjectList\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.csproj.CoreCompileInputs.cache
+C:\ProjectList\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.AssemblyInfoInputs.cache
+C:\ProjectList\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.AssemblyInfo.cs
